@@ -1,0 +1,15 @@
+C:\Users\Mohammed\documents\visual studio 2017\Projects\Notepad\Notepad\bin\Debug\Notepad.exe.config
+C:\Users\Mohammed\documents\visual studio 2017\Projects\Notepad\Notepad\bin\Debug\Notepad.exe
+C:\Users\Mohammed\documents\visual studio 2017\Projects\Notepad\Notepad\bin\Debug\Notepad.pdb
+C:\Users\Mohammed\documents\visual studio 2017\Projects\Notepad\Notepad\bin\Debug\Notepad.xml
+C:\Users\Mohammed\documents\visual studio 2017\Projects\Notepad\Notepad\obj\Debug\Notepad.FindForm.resources
+C:\Users\Mohammed\documents\visual studio 2017\Projects\Notepad\Notepad\obj\Debug\Notepad.FontsForm.resources
+C:\Users\Mohammed\documents\visual studio 2017\Projects\Notepad\Notepad\obj\Debug\Notepad.MainForm.resources
+C:\Users\Mohammed\documents\visual studio 2017\Projects\Notepad\Notepad\obj\Debug\Notepad.Resources.resources
+C:\Users\Mohammed\documents\visual studio 2017\Projects\Notepad\Notepad\obj\Debug\Notepad.ReplaceForm.resources
+C:\Users\Mohammed\documents\visual studio 2017\Projects\Notepad\Notepad\obj\Debug\Notepad.SaveForm.resources
+C:\Users\Mohammed\documents\visual studio 2017\Projects\Notepad\Notepad\obj\Debug\Notepad.vbproj.GenerateResource.Cache
+C:\Users\Mohammed\documents\visual studio 2017\Projects\Notepad\Notepad\obj\Debug\Notepad.exe
+C:\Users\Mohammed\documents\visual studio 2017\Projects\Notepad\Notepad\obj\Debug\Notepad.xml
+C:\Users\Mohammed\documents\visual studio 2017\Projects\Notepad\Notepad\obj\Debug\Notepad.pdb
+C:\Users\Mohammed\documents\visual studio 2017\Projects\Notepad\Notepad\obj\Debug\Notepad.vbprojResolveAssemblyReference.cache
